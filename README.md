@@ -9,3 +9,23 @@ This is a course to begin in the worl of iot. At the first weeks we are going to
 - ESP development board (in this case buy or esp8266-12, also call nodeMCU, or ESP32).
 - Shield boards ( ldr board, relay, HC04 or others).
 - Sensor (DHT11, DHT22, lm35 or others).
+- PC (with arduino IDE complete version)
+
+
+## First week
+At the first week we are going to cover the basics of electricity and electronics before we get into practice part. Here are some topics:
+
+- OHM laws
+  - Why is important
+- AC/DC
+- Sources
+- Pasive components
+- Loads
+- Sensors/actuators
+- Controllers
+- Arduino
+- Basics samples
+
+## Second weeks
+
+*Comming soon*
