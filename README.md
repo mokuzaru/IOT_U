@@ -26,6 +26,6 @@ At the first week we are going to cover the basics of electricity and electronic
 - Arduino
 - Basics samples
 
-## Second weeks
+## Second week
 
 *Comming soon*
