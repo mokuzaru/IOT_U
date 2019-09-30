@@ -28,4 +28,30 @@ At the first week we are going to cover the basics of electricity and electronic
 
 ## Second week
 
-*Comming soon*
+At the second week we see the materials to build the projects.
+
+List of items.
+
+### Random items 4 random projects
+
+- Arduino nano
+- Serial TTL converter
+- jumpers
+- IMU (acelerometer and gyroscope)
+- litium batery charger: Module TP4056 or 03962A
+- Board sim800
+- bluetooth board HC-06
+- Conversor DC DC LM2596
+
+
+## Third week
+
+[How to use litium batery charger](https://www.youtube.com/watch?v=mqjcenit4_Y)
+
+Then we must create a simple but useful board to protect our circuits from reverse polarity.
+
+![This is an schematic](/img/protecion-cortocircuitos.jpg)
+
+## Fouth week
+
+Comming soon
