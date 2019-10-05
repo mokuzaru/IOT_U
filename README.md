@@ -54,4 +54,11 @@ Then we must create a simple but useful board to protect our circuits from rever
 
 ## Fouth week
 
-Comming soon
+At this week start connecting stuf to test sensor and actuators with the controller (arduino). In order to learn about deeper concepts of electronics and data adquisition (basic telemetry).
+At the end of this session must know the value range of the sensor and data adquisition. Some examples:
+
+Range of DHT11 :  from 0° to 50°
+Range of DHT22 : from -40° to 80°
+HC-04 (ultrasonic): from 3cm to 300 cm
+
+Note: Use diferent sensors (besides the sensors of your project).
